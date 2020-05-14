@@ -44,5 +44,12 @@
         }
       ]
     } 
+  ],
+   "faqs": [
+    {
+      "id": 1,
+      "title": "Ma question",
+      "answer": "Ma réponse"
+    }
   ]
 }
