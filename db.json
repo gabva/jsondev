@@ -3,7 +3,7 @@
     {
       "LLDId": 11226,
       "storeId": 97,
-       "status: 0,
+       "status": 0,
       "client": {
         "gender": "Mr",
         "firstName": "Gabriel",
@@ -49,7 +49,7 @@
     {
       "LLDId": 11227,
       "storeId": 97,
-      "status: 0,
+      "status": 0,
       "client": {
         "gender": "Mr",
         "firstName": "Jean",
@@ -94,7 +94,7 @@
     {
       "LLDId": 11236,
       "storeId": 97,
-      "status: 50,
+      "status": 50,
       "client": {
         "gender": "Mr",
         "firstName": "Gabriel",
@@ -140,7 +140,7 @@
 {
       "LLDId": 112,
       "storeId": 97,
-      "status: 100,
+      "status": 100,
       "client": {
         "gender": "Mr",
         "firstName": "Christian",
