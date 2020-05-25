@@ -186,18 +186,40 @@
    "faqs": [
     {
       "id": 1,
-      "title": "Ma question",
-      "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit arcu neque, varius rutrum lectus volutpat non. Maecenas tempus ipsum eu tellus consequat, ac aliquet sapien vulputate. Fusce venenatis sapien lorem, a aliquet diam scelerisque a. Nunc porttitor fringilla tortor, nec vulputate purus consequat ut. Nam faucibus quam diam, ac egestas libero euismod id. Nunc commodo ligula non sapien imperdiet feugiat. Pellentesque pretium tempor euismod. Suspendisse malesuada neque a ligula dignissim, maximus hendrerit velit porttitor."
+      "title": "Y a-t-il des pénalités si le client interrompt son contrat avant la fin choisie de 12, 24 ou 36 mois ?",
+      "answer": "Oui le client doit compenser les loyers non perçus mais ils sont minorés par le fait que le vélo est rendu en meilleur état et plus tôt que prévu (donc meilleure valeur de revente)"
     },
      {
       "id": 2,
-      "title": "Ma question un peu plus longue",
-      "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit arcu neque, varius rutrum lectus volutpat non. Maecenas tempus ipsum eu tellus consequat, ac aliquet sapien vulputate. Fusce venenatis sapien lorem, a aliquet diam scelerisque a. Nunc porttitor fringilla tortor, nec vulputate purus consequat ut. Nam faucibus quam diam, ac egestas libero euismod id. Nunc commodo ligula non sapien imperdiet feugiat. Pellentesque pretium tempor euismod. Suspendisse malesuada neque a ligula dignissim, maximus hendrerit velit porttitor."
+      "title": "Quand est ce que je touche mon chiffre ? ",
+      "answer": "Tu touches ton chiffre quand tu traites le mail envoyé par Thibault ou Justine avec les instructions précises pour commander et passer en caisse. Le CA = PV du vélo sans EPV + les entretiens annuels inclus dans le loyer"
     },
    {
       "id": 3,
-      "title": "Ma question numéro 3",
-      "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit arcu neque, varius rutrum lectus volutpat non. Maecenas tempus ipsum eu tellus consequat, ac aliquet sapien vulputate. Fusce venenatis sapien lorem, a aliquet diam scelerisque a. Nunc porttitor fringilla tortor, nec vulputate purus consequat ut. Nam faucibus quam diam, ac egestas libero euismod id. Nunc commodo ligula non sapien imperdiet feugiat. Pellentesque pretium tempor euismod. Suspendisse malesuada neque a ligula dignissim, maximus hendrerit velit porttitor."
-    }
+      "title": "LLD éligible à la Remise DECATHLONNIEN ?",
+      "answer": "Tu la touches sur 25% du ticket de caisse lors du passage caisse comme un achat normal"
+    },     
+     {
+       "id":4,
+       "title":"Est-ce que le client peur racheter son vélo en fin de contrat ? ",
+       "answer":"Oui de la manière suivante : ton magasin rachète le vélo au financier en fin de contrat à une valeur résiduelle raisonnable puis tu peux décider de lui revendre au pris de marché via Décathlon occasion ; en cas d’usure anormale, la remise en état du vélo est au frais du client" 
+     },
+      {
+       "id":5,
+       "title":"Y a-t-il un assurance casse / vol ? ",
+       "answer":"Oui elle est en option /c’est une assurance du partenaire en attendant celle DECATHLON ASSURANCE qui n’est pas valable à ce jour sur les vélos en LLD " 
+     },
+     {
+       "id":6,
+       "title":"Qu’en est il des forfaits révisions entretien ? ",
+       "answer":"L’atelier touche 100% du CA entretien choisi par le client lors du passage caisse => les révisions passeront en code offert le jour de la révision" 
+     },
+          {
+       "id":7,
+       "title":"La LLD est-elle éligible aux aides ? ",
+       "answer":"Oui, le client peut de faire faire une facture par DECATHLON" 
+     }
+     
+
   ]
 }
